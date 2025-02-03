@@ -1,5 +1,4 @@
 "use client";
-import { useState } from 'react';
 import Image from 'next/image'; // Import the Image component
 
 export default function TopPicks() {

@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faSkull } from '@fortawesome/free-solid-svg-icons'
+import { faSkull } from '@fortawesome/free-solid-svg-icons';
 import Image from 'next/image';
 
 function Hero() {
